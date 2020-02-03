@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Hi! I'm Udit Saxena. 
+Hi! I'm Udit Saxena. 
 
 I am a machine learning engineer at [Sumo Logic](https://www.sumologic.com/) with the Advanced Analytics team.
 I've completed my Master's in Computer Science from UMass, Amherst. My interests lie in the field of Machine Learning - specifically Natural Language Processing and Deep Learning.
