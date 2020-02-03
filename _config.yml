@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Udit Saxena"
 title_separator          : "-"
 name                     : &name "Udit Saxena"
-description              : &description ""
+description              : &description "Machine Learning Engineer at Sumo Logic"
 url                      : https://uditsaxena.github.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "uditsaxena/uditsaxena.github.com"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" #, "gh-pages"
+  branch                 : "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
