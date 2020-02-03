@@ -11,7 +11,7 @@ title                    : "Udit Saxena"
 title_separator          : "-"
 name                     : &name "Udit Saxena"
 description              : &description "Machine Learning Engineer at Sumo Logic"
-url                      : https://uditsaxena.github.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://uditsaxena.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "uditsaxena/uditsaxena.github.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
+  branch                 : ["master", "gh-pages"]
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
