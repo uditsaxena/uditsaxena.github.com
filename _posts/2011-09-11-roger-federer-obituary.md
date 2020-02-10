@@ -9,7 +9,7 @@ tags:
 
 As I sit typing, drowning my sorrow with RHCP, the last few shots of the Federer vs Djokovic match flash by. The loss confirmed a fact long since avoided by his greatest and most devoted of followers and thought about, albeit secretly, and whispered quietly at the end of each damned match, all the while trying to run from something unstoppable, hoping against hope that the next match would save them and prove them wrong - the fall of Roger Federer.
 
-[This should have been on a crest.](/images/assets/rflogo.gif)
+[This should have been on a crest.](/images/2011-09-11/rflogo.gif)
 
 I remember when I first saw Federer somewhere in 2004 in the US open - around the time when he first started building his legend, his dominance - though I was already two or three Grand Slams late - he had this long lock of hair and seemed to a very rough personality off court. That's when he had that fierce but graceful spirit which would grow on to dominate the world for another 5 years. Though the hair got short, the elegance rose.
 
