@@ -18,22 +18,22 @@ And although I can't say I have a genre that I stick to, but the works of Wodeho
 
 Amongst those who did are the ones that have influenced me the most -
 
-["Atlas Shrugged"](/images/2011-10-02/images?q=tbn:ANd9GcRExG_pabOzygJ9R6hVkQOkljJREdolo35chsk1QKYh9HDl9XRd7A)
+!["Atlas Shrugged"](/images/2011-10-02/images?q=tbn:ANd9GcRExG_pabOzygJ9R6hVkQOkljJREdolo35chsk1QKYh9HDl9XRd7A)
 ### Atlas Shrugged : 
 
 I read this one fairly recently and its safe enough to say that this book is one of my top 3 of all time. With Ayn Rand's thoughts on objectivism, rational self interest, and the power of ability over need truly made me think a lot more than I'm used to. Yes, there were a few ideas that I did not agree with, but its has had impact on me to the extent that I have started incorporating some of the beliefs and concepts in my life. I am still amazed by the her perception of the world, at her time and with such intensity.
 
-[For one more day](/images/2011-10-02/images?q=tbn:ANd9GcRqahHyK5KqCYWhAmnEncryvUXvRk6T-ve-h-yn5Ffb93TGavB1Hg)
+![For one more day](/images/2011-10-02/images?q=tbn:ANd9GcRqahHyK5KqCYWhAmnEncryvUXvRk6T-ve-h-yn5Ffb93TGavB1Hg)
 ### For one more day : 
 
 I would rather write Albom's name instead of his book's title buts since this is 5 books and not authors that influenced me, I'll have to stick with one of my favorites of his.  It speaks of the regrets and missed chances in Charlies life, how he wishes to see his mother,depressed after a bad divorce, who passed away. It is heavy on nostalgia, reminiscence and a light read although very touching.
 
-[Zen and the Art of motorcycle maintenance](/images/2011-10-02/images?q=tbn:ANd9GcTkAU8ebjhhiyO5G_lA7-mzRDMjxgPZ5HWw8Egyfi9VgIjd1benKw)
+![Zen and the Art of motorcycle maintenance](/images/2011-10-02/images?q=tbn:ANd9GcTkAU8ebjhhiyO5G_lA7-mzRDMjxgPZ5HWw8Egyfi9VgIjd1benKw)
 ### Zen and the Art of Motorcycle Maintenance : 
 
 Yeah the name is a mouthful. But Pirsig's takes on quality and his thoughts on the ghosts of science, musings on Kant, Hume, Poincare particularly interested me. His descriptions of Phaedrus' detachment and suffering was a little too much at times but I thought a lot during this one too (although it took me 3 tries over two years to get through this book). It was a thesis on quality in a world obsessed with quantity and where quality is usually a luxury. It completely changes the way you think ! And I absolutely loved the motorcycle ride.
 
-[The Kite runner](/images/2011-10-02/thekiterunner.jpg)
+![The Kite runner](/images/2011-10-02/thekiterunner.jpg)
 ### The Kite Runner : 
 
 This is one of those stories of lives touched by violence, tragedy with glimmers of hope and peace and closure midst all of this. Narrated beautifully by Hosseini, his simple, elegant and innocence style writing was a brand new experience for me. It tugs at you and makes you feel, even where you think you can't or won't. And with such depth of detail it seems as if the author has himself suffered through similar times mentioned in the book. Humility and grief,too, are deeply embedded in this novel.
