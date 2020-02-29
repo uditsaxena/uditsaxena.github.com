@@ -14,7 +14,7 @@ It was with almost childlike glee that I stacked up my books on my bed, stacks a
 
 I was so jobless I actually took up a few - reading my favorite parts of them was so refreshing ! Some books are too much fun to only read once. Sometimes I was surprised that I found a new meaning between the lines, other times I was left dumbfounded that my younger self ever read such material. But I guess that's how life is.
 
-![The books on my bed](/images/2012-03-09/img.jpg) 
+![The books on my bed](/images/2012-07-14/img.jpg) 
 
 A lot have been cataloged already and are missing from this picture.
 There, just right above the Harry Potter series was the space occupied by the Wheel of Time series. There on the top is another hole - probably dad's photography books.
