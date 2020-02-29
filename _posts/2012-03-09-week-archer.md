@@ -10,7 +10,7 @@ Last week I shifted, after a lot of contemplation (and hardwork), over to Arch L
 
 Given it wasn't that easy - once my Ubuntu Grub disappeared, I had to reinstall my Arch distro around 8 times to figure out where I was going wrong - and yes, at one moment of time I actually had 4 different OSes booted on separate partitions on my laptop !! In the end I finally had to settle with Archbang Linux, based on the Arch kernel but with a different Window Manager.
 
-!["Arch Linux"](images/2012-03-09/arch.png)
+!["Arch Linux"](/images/2012-03-09/arch.png)
 
 And I tell you - the last week has been very tough but ( now that I come to think of it ) also very rewarding. Trying to get myself acquainted with my terminal - Terminator, different openbox themes, mpd, daemon files, the Arch wiki and forums and conky configs etc has been very exciting and I'm always learning.
 
