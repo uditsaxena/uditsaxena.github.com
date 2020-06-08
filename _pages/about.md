@@ -13,7 +13,7 @@ Hi! I'm Udit Saxena.
 I am a machine learning engineer at [Sumo Logic](https://www.sumologic.com/) with the Advanced Analytics team.
 I've completed my Master's in Computer Science from UMass, Amherst. My interests lie in the field of Machine Learning - specifically Natural Language Processing and Deep Learning.
     
-At Sumo, I work on building time series models and clustering algorithms for peer-based component/workload modeling and security event analysis. 
+At Sumo, I work on building distributed fast approximate strucutured and unstructured streaming clustering algorithms for text streams, time series models and clustering algorithms for peer-based component/workload modeling and security event analysis. 
 Previously I've interned with Sumo Logic, working on [Distributed Tracing](http://opentracing.io/documentation/), in the Bay Area with the metrics team led by [David Andrzejewski](http://www.david-andrzejewski.com/).
 Before this I worked as a Product Engineer with the Core team at [Sprinklr](http://www.sprinklr.com) and have interned with [Adobe](http://www.adobe.com/in/) on User Analytics with the Adobe Captivate team.
     
