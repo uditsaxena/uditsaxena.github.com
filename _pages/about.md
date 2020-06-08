@@ -23,4 +23,4 @@ I've worked on a Pytorch implementation of [End to End Memory Networks](http://a
 In Spring 2017, I [worked](https://github.com/iesl/factorie-tf-model-serve) with [Prof. Andrew McCallum](https://people.cs.umass.edu/~mccallum/) on serving pre-trained Tensorflow models for the JVM as part of [IESL](http://www.iesl.cs.umass.edu/).
 I was a Google Summer of Code intern, working with [MLPACK](https://github.com/mlpack/mlpack) (along with [Ryan Curtin](http://www.ratml.org/)), a C++ based open source machine learning library.
 
-Check out my [resume](https://drive.google.com/open?id=1VnMrvOq8Z1eZAXxrWmVuGeRhAWut_0WO)
+Check out my [resume](https://drive.google.com/file/d/1YphxEd36Yi_Y_Zu-Pk3MQjzAKvcejeao/view?usp=sharing)
