@@ -14,7 +14,9 @@ I am a machine learning engineer at [Sumo Logic](https://www.sumologic.com/) wit
 I've completed my Master's in Computer Science from UMass, Amherst. My interests lie in the field of Machine Learning - specifically Natural Language Processing and Deep Learning.
     
 At Sumo, I work on building distributed, fast, approximate, structured and unstructured streaming clustering algorithms for text streams, time series models and clustering algorithms for peer-based component/workload modeling and security event analysis. I also work on integrating microservices and running production ML workflows on Kubernetes (AWS EKS) and have worked closely with Airflow, Helm, ArgoCD, Docker and AWS Elastic Container Registry.
+
 My chief research interests lie in sparse approaches to Deep Learning models, where I've worked on using Neural Tangent Kernels to estimate a data independent kernel (called the Path Kernel) for the sparse representation of a deep neural network at initialization (paper submitted to ICLR - link to preprint soon)
+
 Previously I've interned with Sumo Logic, working on [Distributed Tracing](http://opentracing.io/documentation/), in the Bay Area with the metrics team led by [David Andrzejewski](http://www.david-andrzejewski.com/).
 Before this I worked as a Product Engineer with the Core team at [Sprinklr](http://www.sprinklr.com) and have interned with [Adobe](http://www.adobe.com/in/) on User Analytics with the Adobe Captivate team.
     
