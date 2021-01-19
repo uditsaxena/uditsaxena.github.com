@@ -6,7 +6,7 @@ tags:
   - update
 ---
 
-2014 - Thats the last time I published a blog post. I think. Was it 2013? Something after that stopped me from publishing more. Now, maybe in a futile effort, I'd like to give it a try again. 
+The last time I published a blog post was in 2014. I think. Was it 2013? Something after that stopped me from publishing. I moved from wordpress to a new website to another website. Now, maybe in a futile effort, I'd like to give it a try again. 
 
 I've been thinking of writing for a while. Not journalling - I already do that, albeit not so religiously. Not technical writing - I do that for work and research all the time. But blogging - putting this big blob of text which ties together a few ideas (my ideas!) loosely - and vomits them out into the world. 
 
