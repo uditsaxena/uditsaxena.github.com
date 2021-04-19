@@ -1,6 +1,6 @@
 ---
 title: 'Adult Hobbies'
-date: 2021-04-19
+date: 2021-04-18
 permalink: /posts/2021/04/adult-hobbies/
 tags:
   - fitness
@@ -22,9 +22,11 @@ While discussing with the aforementioned friend about what coffee grinder he sho
 His reasoning boiled down to trying something small, seeing if he enjoyed it or if it worked out for him, and buying and growing into it when he ran into hurdles. That way, he could enjoy the process of growth and avoid getting overwhelmed when trying to brew the absolute, honest to god, perfect cup of coffee. 
 
 
+
 I'd like to think that iterative process is a healthy way to approach hobbies and grow into them as an adult.
 
 Try out something small, see if you like it and invest in it in stages when you run into issues. And stop when you think you've reached a stage of diminishing returns.
+
 
 
 The reason I like this framing is because its prescriptive nature captures the essence of exploring and discovering activities interesting to you under the constraints of adulthood. It gives you lots of room to grow in that hobby while at the same time providing an escape hatch of sorts. 
