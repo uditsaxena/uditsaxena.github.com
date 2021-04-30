@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Udit Saxena. 
 
-I am a Machine Learning Engineer at [Sumo Logic](https://www.sumologic.com/). 
+I am a Senior Machine Learning Engineer at [Sumo Logic](https://www.sumologic.com/). 
 
 At Sumo, I build fast and approximate streaming clustering algorithms for text streams and time series models. I also work on running production ML workflows on Kubernetes and have experience with Airflow, AWS Sagemaker, Helm, and ArgoCD among other tools.
 
