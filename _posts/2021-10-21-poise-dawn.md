@@ -9,34 +9,34 @@ tags:
 The Poise of Dawn
 
 
-The eyes, they say, have it all 
-Here too, the maxim's true 
-But, knowing her 
-Rather a confining one 
+The eyes, they say, have it all  
+Here too, the maxim's true  
+But, knowing her  
+Rather a confining one  
 To befall 
 
-Screaming wanderlust, they grip you 
-In their icy stare, 
+Screaming wanderlust, they grip you  
+In their icy stare,  
 In a passionate flare,  
-But there are jewels 
+But there are jewels  
 To be found elsewhere 
 
-let the carapace come off 
-The strong but silent tenacity 
-And the careful measured verbosity 
-These she shrugs off, with a dancer's neck bob 
+let the carapace come off  
+The strong but silent tenacity  
+And the careful measured verbosity  
+These she shrugs off, with a dancer's neck bob  
 For jiggling feet and unmatched vivacity 
 
-Here and there a stolen bellow, 
+Here and there a stolen bellow,  
 Still there though, the quiet grace,  
-And oh, what a face! 
-Careful, you might lose her though 
+And oh, what a face!  
+Careful, you might lose her though  
 In the realms of a burgeoning bookcase 
 
-She looks like herself, 
-Wearing her strange beauty like war paint 
-Strong and weak at once 
-Allowing herself, at least for a little while 
+She looks like herself,  
+Wearing her strange beauty like war paint  
+Strong and weak at once  
+Allowing herself, at least for a little while  
 To be both 
 
 
