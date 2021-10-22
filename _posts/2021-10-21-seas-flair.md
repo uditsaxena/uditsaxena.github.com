@@ -1,12 +1,10 @@
 ---
 title: "The Sea's Flair"
 date: 2021-05-21
-permalink: /posts/2021/05/unfamiliar-me/
+permalink: /posts/2021/05/seas-flair/
 tags:
   - poetry
 ---
-
-The Sea's Flair
 
 Like a breath of fresh air,  
 From a cold and clammy despair  

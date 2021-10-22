@@ -6,9 +6,6 @@ tags:
   - poetry
 ---
 
-The Poise of Dawn
-
-
 The eyes, they say, have it all  
 Here too, the maxim's true  
 But, knowing her  
@@ -21,7 +18,7 @@ In a passionate flare,
 But there are jewels  
 To be found elsewhere 
 
-let the carapace come off  
+Let the carapace come off  
 The strong but silent tenacity  
 And the careful measured verbosity  
 These she shrugs off, with a dancer's neck bob  

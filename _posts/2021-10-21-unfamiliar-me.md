@@ -6,8 +6,6 @@ tags:
   - poetry
 ---
 
-An Unfamiliar Me
-
 
 I greeted her on a starry night sky  
 At the base of a dying tree  
