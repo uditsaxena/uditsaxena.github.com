@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Udit Saxena"
 title_separator          : "-"
 name                     : &name "Udit Saxena"
-description              : &description "Machine Learning Engineer at Sumo Logic"
+description              : &description "Lead Machine Learning Engineer at ASAPP"
 url                      : "https://uditsaxena.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "uditsaxena/uditsaxena.github.com"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Udit Saxena"
   avatar           : "Profile_1.JPG"
-  bio              : "Machine Learning Engineer at Sumo Logic"
+  bio              : "Lead Machine Learning Engineer at ASAPP"
   location         : "SF Bay Area"
   employer         :
   pubmed           : 
