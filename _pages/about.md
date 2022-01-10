@@ -10,9 +10,11 @@ redirect_from:
 
 Hi! I'm Udit Saxena. 
 
-I am a Senior Machine Learning Engineer at [Sumo Logic](https://www.sumologic.com/). 
+I am a Lead Machine Learning Engineer at [ASAPP](https://www.asapp.com/). 
 
-At Sumo, I build fast and approximate streaming clustering algorithms for text streams and time series models. I also work on running production ML workflows on Kubernetes and have experience with Airflow, AWS Sagemaker, Helm, and ArgoCD among other tools.
+At ASAPP, I work with [Nirmal Mukhi](https://www.linkedin.com/in/nirmal-mukhi-b153698/) on the Machine Learning Infrastructure team where I design and implement workflow automation (using Airflow, Kubernetes) and distributed training for Deep Learning solutions for Speech/NLP.  
+
+Previously, as a Senior Machine Learning Engineer at [Sumo Logic](https://www.sumologic.com/) with [David A.](http://www.david-andrzejewski.com/), I built fast and approximate streaming clustering algorithms for text streams and time series models. I also worked on running production ML workflows on Kubernetes and have experience with Airflow, AWS Sagemaker, Helm, and ArgoCD among other tools.
 
 My research interests lie in the field of Machine Learning - specifically Natural Language Processing and sparse approaches to Deep Learning. 
 
