@@ -86,7 +86,7 @@ author:
   location         : "SF Bay Area"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=gj3JraYAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=_AYcnvQAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,6 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "udit-saxena-29862918"
+  bearblog         : "uditsaxena"
   orcid            : 
   pinterest        :
   soundcloud       :

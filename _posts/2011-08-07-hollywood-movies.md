@@ -1,5 +1,5 @@
 ---
-title: 'Cause Hollywood wouldn't be able to make any more movies..'
+title: "Cause Hollywood wouldn't be able to make any more movies.."
 date: 2011-08-07
 permalink: /posts/2011/08/hollywood-movies/
 tags:
