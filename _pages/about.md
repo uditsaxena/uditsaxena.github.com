@@ -28,4 +28,4 @@ Before that, I worked with Microsoft Research, Lexalytics, UMass IESL, Google Su
 
 I enjoy the intersection of AI systems, distributed computing, and geometric ML, and I’m always interested in building tools and infrastructure that make large models more efficient, interpretable, and useful.
 
-View my [resume](https://drive.google.com/file/d/1oVT93uBv4QkeOHelUOzTUzxGPRVf5rWC/view?usp=sharing)
+View my [resume](https://drive.google.com/file/d/1ET9N8Fa5cBP9XBJxWHYszKWdNtgCE-u_/view?usp=sharing)
