@@ -12,7 +12,7 @@ Hi! I'm Udit Saxena.
 
 I am a **research engineer** at [Mistral](https://mistral.ai/) where I work on the pretraining data team.
 
-Previously, I was a **Lead Machine Learning Engineer** at [ASAPP](https://www.asapp.com/), where I designed large-scale AI infrastructure, built **retrieval-augmented generation (RAG) systems**, and worked on **multi-turn conversational agent platforms** for enterprise-scale voice and text AI products. 
+Previously, I was a Machine Learning Engineer at [ASAPP](https://www.asapp.com/), where I designed large-scale AI infrastructure, built RAG systems, and developed agentic harnesses for enterprise-scale voice and text AI agents. 
 
 My work spans workflow orchestration (Airflow, Spark, Kubernetes, Dagster), LLM evaluation and inference infrastructure, and distributed deep learning training. I collaborate closely with our Research, Product, Platform, and SRE teams to bridge cutting-edge LLM research with production systems. 
 
