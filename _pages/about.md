@@ -10,11 +10,11 @@ redirect_from:
 
 Hi! I'm Udit Saxena. 
 
-I am a **Lead Machine Learning Engineer** at [ASAPP](https://www.asapp.com/), where I design large-scale AI infrastructure for Generative AI systems.
+I am a **research engineer** at [Mistral](https://mistral.ai/) where I work on the pretraining data team.
 
-At ASAPP, I build **retrieval-augmented generation (RAG) systems** and **multi-turn conversational agent platforms** that power enterprise-scale voice and text AI products. 
+Previously, I was a **Lead Machine Learning Engineer** at [ASAPP](https://www.asapp.com/), where I designed large-scale AI infrastructure, built **retrieval-augmented generation (RAG) systems**, and worked on **multi-turn conversational agent platforms** for enterprise-scale voice and text AI products. 
 
-My work spans workflow orchestration (Airflow, Spark, Kubernetes), LLM evaluation and inference infrastructure, and distributed deep learning training. I collaborate closely with our Research, Product, Platform, and SRE teams to bridge cutting-edge LLM research with production systems. 
+My work spans workflow orchestration (Airflow, Spark, Kubernetes, Dagster), LLM evaluation and inference infrastructure, and distributed deep learning training. I collaborate closely with our Research, Product, Platform, and SRE teams to bridge cutting-edge LLM research with production systems. 
 
 I also spoke at **Airflow Summit 2024**, sharing how ASAPP orchestrates large-scale batch inference for gen-AI workloads across Kubernetes clusters ([Airflow Blog](https://medium.com/apache-airflow/airflow-at-asapp-enhancing-ai-powered-contact-centers-0328deb6f03b)).
 
